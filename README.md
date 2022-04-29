@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Dimuthu7?logo=GitHub&style=for-the-badge)][github]
 
 - 🔭 I'm associate Software Engineer at D P Infotech Private Limited
-- 🎓 Studies BSc (Hons) in Information Technology Specialising in Software Engineering at SLIIT
+- 🎓 Studied BSc (Hons) in Information Technology Specialising in Software Engineering at SLIIT
 
 ### Connect with me:
 [<img align="left" alt="Dimuthu Abeysinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
