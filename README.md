@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimuthu Abeysinghe</h1>
-<h3 align="center">FullStack Developer</h3> <br/> <br/>
+<h3 align="center">FullStack Software Engineer</h3> <br/> <br/>
 
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/dimuthu-abeysinghe/)][linkedin]
 [![GitHub followers](https://img.shields.io/github/followers/Dimuthu7?logo=GitHub&style=for-the-badge)][github]
