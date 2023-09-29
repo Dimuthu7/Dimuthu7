@@ -8,9 +8,11 @@
 - 🎓 Studied BSc (Hons) in Information Technology Specialising in Software Engineering at SLIIT
 
 ### Connect with me:
-[<img align="left" alt="Dimuthu Abeysinghe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dimuthu Abeysinghe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Dimuthu Abeysinghe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left">
+<a href = "https://www.linkedin.com/in/dimuthu-abeysinghe/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "https://twitter.com/Dimuthu_Niro/"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href = "https://www.hackerrank.com/dimuthuc2"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
+</p>
 
 <br/>
 
