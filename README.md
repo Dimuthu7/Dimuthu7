@@ -39,6 +39,10 @@
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDimuthu_Niro&screen_name=Dimuthu_Niro
 [instagram]: https://www.instagram.com/d__niroshan
 
+<br/>
+
+[![An image of @dimuthu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dimuthu)](https://holopin.io/@dimuthu)
+
 <!--
 **Dimuthu7/Dimuthu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
