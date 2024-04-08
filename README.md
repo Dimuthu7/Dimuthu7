@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimuthu Abeysinghe</h1>
-<h3 align="center">FullStack Software Engineer</h3> <br/> <br/>
 
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/dimuthu-abeysinghe/)][linkedin]
 [![GitHub followers](https://img.shields.io/github/followers/Dimuthu7?logo=GitHub&style=for-the-badge)][github]
 
-- 🔭 I'm Software Engineer at D P Infotech Private Limited
+- 🔭 I'm Senior Software Engineer at IFS R & D Private Limited
 - 🎓 Studied BSc (Hons) in Information Technology Specialising in Software Engineering at SLIIT
 
 ### Connect with me:
